@@ -1,7 +1,7 @@
 placeGant
 ===========
 
-placegant is a small library for generating [placeGants](http://placeGant.me/).
+Inspired by placekitten, placeGant is a small helper for generating Gantman images. To see all the images available, visit http://placegant.me.
 
 Installing
 ----------
