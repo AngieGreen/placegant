@@ -23,10 +23,8 @@ Or install it yourself as:
 Examples
 --------
 
-    require 'placegant'
-
     # Generate a 300x400 placeGant
-    PlaceGant.image(300, 400) # => "http://placegant.me/pg/300/400"
+    PlaceGant.image(300, 400)  => "http://placegant.me/pg/300/400"
 
 Rails Helpers
 -------------

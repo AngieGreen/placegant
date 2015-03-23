@@ -1,6 +1,7 @@
 module PlaceGant::Helpers
   # @see PlaceGant.image
   def placegant(width = nil, height = nil)
-    PlaceGant.image(width, height)
+    "http://placegant.me/pg/#{width}/#{height}"
   end
 end
+
